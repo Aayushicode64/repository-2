@@ -1,0 +1,51 @@
+<html>
+
+<head>
+    <title></title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <nav>
+                <ul>
+                    <li><a href="/home.html">Home</a></li>
+                    <li><a href="/Contact.html">Contact</a></li>
+                    <li><a href="/Address.html">Address</a></li>
+                    <li><a href="/Personal info.html">Personal info</a></li>
+                    <li><a href="/History.html">History</a></li>
+                    <li><a href="/Services.html">Services</a></li>
+
+                </ul>
+            </nav>
+        </div>
+        <div class="main">
+
+            <div class="infocontainer">
+                <div class="devinfo">
+                    <span class="hello"> Hey I am</span>
+                    <div class="name">Aayushi Pandey</div>
+                    <div class="about">Btech student from ucer Gr noida </div>
+                    <div class="moreabout"> Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea officia
+                        laudantium est ducimus unde officiis inventore velit numquam delectus! Eius at aliquid omnis
+                        ipsum incidunt repellendus dolore ad similique ducimus!</div>
+                    <div class="buttons">
+                        <a href="/cv.txt">
+                            <button>download resume</button></a>
+                        <a href="/contact.html"><button>contact me</button></a>
+                    </div>
+                </div>
+                <div class="devpic"> <img src="C:\Users\panda\Pictures\dev.png.jpg " alt="nothing"
+                        style="width: 150px; height:160px">
+                </div>
+
+            </div>
+
+        </div>
+
+
+    </div>
+</body>
+
+</html>
